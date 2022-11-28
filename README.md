@@ -1,5 +1,5 @@
 # Alzhemiers
-A live demo of this project is available on [HuggingFace(Click Here)](https://huggingface.co/spaces/Pranay009/Alzheimers/tree/main).
+A live demo of this project is available on [HuggingFace(Click Here)](https://huggingface.co/spaces/Pranay009/Alzheimers).
 
 ## Dataset
 ---
