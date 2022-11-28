@@ -9,13 +9,13 @@ The Data is hand collected from various websites with each and every labels veri
 ### Content ###
 The data consists of MRI images. The data has four classes of images both in training as well as a testing set:
 
-    *Mild Demented
+    -Mild Demented
 
-    *Moderate Demented
+    -Moderate Demented
 
-    *Non Demented
+    -Non Demented
 
-    *Very6 Mild Demented
+    -Very6 Mild Demented
 
 ### Dataset link ###
 The Dataset can be found on [Kaggle(Click Here)](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
@@ -29,7 +29,9 @@ The very first look on the dataset will tell you that the dataset is imbalanced 
 ## Evaluation
 ---
 Training accuracy: 98%
+
 Validation accuracy:95%
+
 Test accuracy:96%
 
 
