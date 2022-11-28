@@ -1,0 +1,5 @@
+install tensorflow
+install gradio
+install wandb
+install numpy
+install sklearn
